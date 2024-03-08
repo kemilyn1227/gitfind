@@ -2,7 +2,7 @@
 
 
 <br/>
-<p>Site criado para econtrar perfis do github com o uso de api e react</p>
+<p>Site criado através do curso de React da <a href="https://www.dio.me/" target="_blank">Dio,</a>  com o objetivo de buscar perfis do github com o uso de api e react</p>
 
 <a href="https://kemilyn1227.github.io/gitfind/" target="_blank">Acesse aqui </a>
 
@@ -17,6 +17,6 @@
 
 <details align="left">
 
-  <div align="right">Feito com carinho 💜 por <a href="https://github.com/kemilyn1227" target="_blank">Kemilyn.</a></div>
+  <div align="right">Feito com carinho 💜 por <a href="https://github.com/kemilyn1227" target="_blank">Kemilyn.</a>  Modelo com base na aula do <a href="https://github.com/pablohdev" target="_blank">Pablo.</a> </div>
 
 </details>
